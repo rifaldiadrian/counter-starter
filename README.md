@@ -1,6 +1,6 @@
 # Counter App - React Introduction
 
-## Happy coding!
+## Ini adalah mini project menggunakan Framework REACT JS!
 
 ##### Apa saja fitur dari app ini?
 
