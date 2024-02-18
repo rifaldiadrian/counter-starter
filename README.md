@@ -2,7 +2,7 @@
 
 ## Happy coding!
 
-##### Apa yang akan kamu pelajari dari app ini?
+##### Apa saja fitur dari app ini?
 
 - React state management (dengan useState)
 - React life cycle (dengan useEffect)
