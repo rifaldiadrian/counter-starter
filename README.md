@@ -12,4 +12,5 @@
 - Memberikan type untuk props dengan prop-types
 - CSS Module dan dynamic className dengan classnames
 
-&copy; wegodev | version 1.1.0
+&copy; rifaldi adrian | version 1.1.0
+# counter-starter
